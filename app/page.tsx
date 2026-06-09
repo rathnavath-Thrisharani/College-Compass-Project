@@ -15,10 +15,15 @@ type College = {
 };
 
 async function getColleges(): Promise<College[]> {
-  const res = await fetch('${process.env.NEXT_PUBLIC_ASE_URL}/api/colleges',
-     {
+  const res = await fetch(
+    "https://college-compass-project.vercel.app/api/colleges",
+    {
     cache: "no-store",
-  });
+  }
+);
+if(!res.ok) {
+  throw new Error ("Failed to fetch colleges");
+}
 
   return res.json();
 }
