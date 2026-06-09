@@ -15,7 +15,8 @@ type College = {
 };
 
 async function getColleges(): Promise<College[]> {
-  const res = await fetch("http://localhost:3000/api/colleges", {
+  const res = await fetch('${process.env.NEXT_PUBLIC_ASE_URL}/api/colleges',
+     {
     cache: "no-store",
   });
 
