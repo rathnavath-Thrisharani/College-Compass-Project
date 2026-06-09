@@ -15,8 +15,8 @@ async function main() {
         placementRate: 92,
         avgPackage: 14,
         description: "One of India's top NITs.",
-        website: "https://www.nitw.ac.in"
-        ,imageUrl:"https://tse3.mm.bing.net/th/id/OIP.t9wsFitjLQA1fVHDN9HdvQHaFx?pid=Api&P=0&h=180"
+        website: "https://tse3.mm.bing.net/th/id/OIP.t9wsFitjLQA1fVHDN9HdvQHaFx?pid=Api&P=0&h=180",
+        imageUrl: "https://tse3.mm.bing.net/th/id/OIP.t9wsFitjLQA1fVHDN9HdvQHaFx?pid=Api&P=0&h=180"
         ,logoUrl:"https://tse3.mm.bing.net/th/id/OIP.e2GPbnYnnP4C5ajYVCHRUAHaFQ?pid=Api&P=0&h=180"
       },
       {
@@ -40,8 +40,8 @@ async function main() {
         avgPackage: 28,
         description: "Known for Computer Science excellence.",
         website: "https://www.iiit.ac.in",
-        imageUrl: "https://tse4.mm.bing.net/th/id/OIP.xvFo4c5zoS8J-c26VMJP-wHaE7?pid=Api&P=0&h=180"
-        ,logoUrl: "https://tse4.mm.bing.net/th/id/OIP.CAqpEwA2SpIVCanmyciX0AHaHa?pid=Api&P=0&h=180"
+        imageUrl: "https://tse4.mm.bing.net/th/id/OIP.xvFo4c5zoS8J-c26VMJP-wHaE7?pid=Api&P=0&h=180",
+       logoUrl:"https://tse4.mm.bing.net/th/id/OIP.CAqpEwA2SpIVCanmyciX0AHaHa?pid=Api&P=0&h=180"
 
       },
       {
@@ -52,8 +52,8 @@ async function main() {
         placementRate: 95,
         avgPackage: 21,
         description: "One of India's best private engineering colleges.",
-        website: "https://www.bits-pilani.ac.in"
-        imageUrl:"https://tse3.mm.bing.net/th/id/OIP.7fruWTztF-SZbIj5RrC9-wHaEK?pid=Api&P=0&h=180"
+        website: "https://www.bits-pilani.ac.in",
+        imageUrl:"https://tse4.mm.bing.net/th/id/OIP.CAqpEwA2SpIVCanmyciX0AHaHa?pid=Api&P=0&h=180"
       },
       {
         name: "JNTUH",
