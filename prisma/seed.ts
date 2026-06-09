@@ -15,7 +15,7 @@ async function main() {
         placementRate: 92,
         avgPackage: 14,
         description: "One of India's top NITs.",
-        website: "https://tse3.mm.bing.net/th/id/OIP.t9wsFitjLQA1fVHDN9HdvQHaFx?pid=Api&P=0&h=180",
+        website: "https://www.nitw.ac.in",
         imageUrl: "https://tse3.mm.bing.net/th/id/OIP.t9wsFitjLQA1fVHDN9HdvQHaFx?pid=Api&P=0&h=180"
         ,logoUrl:"https://tse3.mm.bing.net/th/id/OIP.e2GPbnYnnP4C5ajYVCHRUAHaFQ?pid=Api&P=0&h=180"
       },
@@ -53,7 +53,8 @@ async function main() {
         avgPackage: 21,
         description: "One of India's best private engineering colleges.",
         website: "https://www.bits-pilani.ac.in",
-        imageUrl:"https://tse4.mm.bing.net/th/id/OIP.CAqpEwA2SpIVCanmyciX0AHaHa?pid=Api&P=0&h=180"
+        imageUrl: "https://tse4.mm.bing.net/th/id/OIP.PJ6r5Sr1hNIEQKoglugIagHaE_?pid=Api&P=0&h=180",
+        logoUrl: "https://tse4.mm.bing.net/th/id/OIP.CAqpEwA2SpIVCanmyciX0AHaHa?pid=Api&P=0&h=180",
       },
       {
         name: "JNTUH",
